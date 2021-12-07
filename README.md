@@ -10,3 +10,6 @@ Ele é uma máquina de cassino que possui valores pré-definidos de aposta, lucr
 Nele foram utilizados O LCD,LED'S PORTD, KEYBOARD e DISPLAY DE 7 SEGMENTOS da placa.
 
 O fluxo grama a baixo vai explicar melhor todas as funções do projeto.
+
+
+![diagrama lab grafos](https://user-images.githubusercontent.com/74834338/145109096-f8c7504a-9fb3-41fd-a19d-11f83b7737a2.png)
